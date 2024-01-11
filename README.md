@@ -2,14 +2,16 @@
 
 # Learning Workbox
 ## default structure
-./project-root
-├── build
-│   ├── css
-│   │   └── main.css
-│   ├── index.html
-│   └── js
-│       └── app.js
-└── package.json
+    ```
+        ./project-root
+        ├── build
+        │   ├── css
+        │   │   └── main.css
+        │   ├── index.html
+        │   └── js
+        │       └── app.js
+        └── package.json
+    ```
 ## change scripts(package.json)
 ## index.html
     link main.css inside HEAD tag
