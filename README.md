@@ -15,7 +15,7 @@
         │       └── app.js
         └── package.json
     ```
-# 2. Configure npm
+# 2. Live server
 - Change scripts command in package.sjon
 
     ```javascript
